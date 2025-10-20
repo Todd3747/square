@@ -1,0 +1,16 @@
+[square]
+# Your Square application access token
+# Get this from your Square Developer Dashboard
+token = YOUR_SQUARE_ACCESS_TOKEN_HERE
+
+# Your Square location ID
+# This identifies which location/store to query orders from
+location_id = YOUR_LOCATION_ID_HERE
+
+# Catalog object ID for your main product variation
+# This should be the variation ID for the product you want to track
+pasty = YOUR_PRODUCT_VARIATION_ID_HERE
+
+# Catalog object ID for donation items
+# This should be the item ID for donations in your catalog
+donation = YOUR_DONATION_ITEM_ID_HERE
