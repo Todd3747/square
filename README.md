@@ -6,7 +6,7 @@ This script generates a sales report from Square API for a specific date, tracki
 
 This script expects the following directory structure:
 ```
-scripts/
+/
 ├── init.ini                    # Configuration file (outside repo)
 ├── venv/                      # Virtual environment (outside repo)
 └── repo/
